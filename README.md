@@ -10,6 +10,6 @@ Andy was born in Garibaldi Provincial Park to Holly and Clarence Varjack, on Mar
 Commit from Margot re: Andy the Bear's backstroy.
 
 Andy has a best friend named Bert.  Bert has one green eye, and very brown cheeks.  Bert is six years old, and likes to eat blackberries.
-Commit locally from Margot re: Andy the Bear's friends.
+
 
 
