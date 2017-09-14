@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"Class04 R Markdown\"\noutput: \n  html_document: \n    keep_md: yes\n---\n# This is my new R Markdown file\n\n## This is a my new text file.\n\n  * It's so much fun\n  * Is it really though?\n  * fact the first: ctrl+alt+i = insert code chunk\n  * fact the second: can change the figure height/width in the chunk header section\n\n```{r chunk the first}\nfun_seq <- rnorm(100,100,2)\nfun_seq2 <- rnorm(100,200,2)\nplot(fun_seq, fun_seq2)\n```\n\n```{r chunk the second}\nsummary (fun_seq)\nsummary (fun_seq2)\n```\n\n\n\n\n",
+    "contents" : "---\ntitle: \"Class04 R Markdown\"\noutput: \n  html_document: \n    keep_md: yes\n---\n# This is my new R Markdown file\n\n## This is a my new text file.\n\n  * It's so much fun\n  * Is it really though?\n  * fact the first: ctrl+alt+i = insert code chunk\n  * fact the second: can change the figure height/width in the chunk header section\n\n```{r chunk the first}\nfun_seq <- rnorm(100,100,2)\nfun_seq2 <- rnorm(100,200,2)\nplot(fun_seq, fun_seq2)\n```\n\n```{r chunk the second}\nsummary (fun_seq)\nsummary (fun_seq2)\n```\n\n\n```{r}\n\n```\n\n\n\n",
     "created" : 1505406707853.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2289721938",
+    "hash" : "2819867862",
     "id" : "53C86AC4",
-    "lastKnownWriteTime" : 1505408741,
-    "last_content_update" : 1505408741532,
+    "lastKnownWriteTime" : 1505409565,
+    "last_content_update" : 1505409565170,
     "path" : "~/UBC year 1 2017-2018/STAT545a/STAT545a class work/STAT545a-class-work/class04 R Markdown.Rmd",
     "project_path" : "class04 R Markdown.Rmd",
     "properties" : {
