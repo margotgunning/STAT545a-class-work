@@ -1,17 +1,19 @@
 ---
 title: "Class04 R Markdown"
-output: 
-  html_document: 
-    keep_md: yes
+author: "Margot Gunning"
+output: github_document
+ 
 ---
 # This is my new R Markdown file
 
-## This is a my new text file.
-
   * It's so much fun.
   * This would have been super helpful for my Honours Thesis.
-  * fact the first: ctrl+alt+i = insert code chunk
-  * fact the second: can change the figure height/width in the chunk header section
+  * *Fact the first*: ctrl+alt+i = insert code chunk
+  * *Fact the second*: can change the figure height/width in the chunk header section
+  
+### Section One:
+
+Walking through tutorial in class Sept 14/2017
 
 ```{r chunk the first}
 fun_seq <- rnorm(100,100,2)
@@ -25,8 +27,25 @@ summary (fun_seq2)
 ```
 
 
-```{r}
+### Section Two:
 
+This fun graph was inspired by InstaChaaz
+
+I suggest you take a look at his profile for some laughs: 
+
+(https://www.instagram.com/instachaaz/)
+
+```{r chunk the third}
+
+x <- log(seq(1,20,1))
+y <- seq(1,20,1)
+plot(x,y, 
+     type = "l", 
+     xlab = "Instances of profanity screamed across the open office plan", 
+     ylab = "Lenght of time I spend continously coding (hr)", 
+     main = "Lab life", 
+     yaxt='n', 
+     xaxt='n')
 ```
 
 
