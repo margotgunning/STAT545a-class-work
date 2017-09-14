@@ -3,8 +3,8 @@
 
 ## This is a my new text file.
 
-  * It's so much fun
-  * Is it really though?
+  * It's so much fun.
+  * This would have been super helpful for my Honours Thesis.
   * fact the first: ctrl+alt+i = insert code chunk
   * fact the second: can change the figure height/width in the chunk header section
 
@@ -24,7 +24,7 @@ summary (fun_seq)
 
 ```
 ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-##   95.13   99.01  100.37  100.43  101.71  107.24
+##   95.04   98.10  100.00   99.84  101.54  104.04
 ```
 
 ```r
@@ -33,8 +33,10 @@ summary (fun_seq2)
 
 ```
 ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-##   195.8   198.5   199.9   199.8   201.3   203.9
+##   195.6   198.2   199.7   199.9   201.2   205.0
 ```
+
+
 
 
 

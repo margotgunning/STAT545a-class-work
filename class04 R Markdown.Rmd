@@ -8,8 +8,7 @@ output:
 
 ## This is a my new text file.
 
-  * It's so much fun
-  * Is it really though?
+  * It's so much fun.
   * This would have been super helpful for my Honours Thesis.
   * fact the first: ctrl+alt+i = insert code chunk
   * fact the second: can change the figure height/width in the chunk header section
